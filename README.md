@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @yiqizhengshan
 - 👀 I’m interested in coding and pentesting
-- 🌱 I’m currently learning C++ at university
+- 🌱 I’m currently learning C++, HTML and Javascript!
